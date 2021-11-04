@@ -1,0 +1,4 @@
+Einkaufsliste:
+-Tomaten
+-Bier
+-Milch
