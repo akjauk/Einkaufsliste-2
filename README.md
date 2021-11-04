@@ -24,4 +24,4 @@
 
 ## Bild
 
-![Bild der Hochschule Furtwangen] (HS_Fuwa.jpeg)
+![Bild der Hochschule Furtwangen](HS_Fuwa.jpeg)
