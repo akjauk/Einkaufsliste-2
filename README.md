@@ -5,6 +5,8 @@
 * Alter: 20
 * Größe: 165cm
 * Beruf: Arbeitslos
+* Haare: Glatze
+* Musik: Helene Fischer
 
 ## Berufserfahrung
 ### Mindestens 1 Jahr
