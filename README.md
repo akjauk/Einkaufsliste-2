@@ -21,3 +21,6 @@
 	* 11. Generation
 * __Tastaturbeleuchtung__
 * [Link zur Marke](https://www.dell.com/de-de?c=de&l=de&s=gen&mp=dell.de/&redirect=1)
+
+## Bild
+![Bild der Hochschule Furtwangen] (/HS_Fuwa.jpg)
